@@ -142,7 +142,6 @@ document.addEventListener('DOMContentLoaded', function() {
         
         // Initialize
         updateSlider();
-        2000	3000
         // Update on window resize
         window.addEventListener('resize', updateSlider);
     }
